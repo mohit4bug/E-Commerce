@@ -1,0 +1,1 @@
+exports.GetAllProducts = (req, res) => { }
